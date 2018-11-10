@@ -1,0 +1,11 @@
+Begin
+HELO
+MAIL FROM: <spondoncsebuet@gmail.com>
+RCPT TO: <1505083.tmd@ugrad.cse.buet.ac.bd>
+DATA
+From: <spondoncsebuet@gmail.com>
+Subject: BBQ party
+ Klke party kintu shobai eshe porish
+na ashle at least inform korish
+.
+QUIT
